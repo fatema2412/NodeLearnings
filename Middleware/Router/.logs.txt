@@ -1,0 +1,14 @@
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 4.723 ms | Date: 2025-09-03T10:49:43.635Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 2.556 ms | Date: 2025-09-03T10:49:44.901Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.588 ms | Date: 2025-09-03T10:49:45.705Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.703 ms | Date: 2025-09-03T10:49:46.873Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.408 ms | Date: 2025-09-03T10:49:46.994Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.709 ms | Date: 2025-09-03T10:49:47.229Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.621 ms | Date: 2025-09-03T10:49:47.444Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.371 ms | Date: 2025-09-03T10:49:47.646Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 0.723 ms | Date: 2025-09-03T10:49:47.929Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 6.251 ms | Date: 2025-09-03T10:51:06.419Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 4.710 ms | Date: 2025-09-03T10:51:42.953Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 1.167 ms | Date: 2025-09-03T10:51:43.949Z | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 4.811 ms | Date: Wed, 03 Sep 2025 10:53:12 GMT | HTTP/ 1.1
+Method: GET | URL: /user/get | Status: 200 | Content-Length: 30 - | Time-Taken: 1.425 ms | Date: Wed, 03 Sep 2025 10:53:15 GMT | HTTP/ 1.1

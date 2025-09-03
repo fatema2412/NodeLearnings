@@ -1,0 +1,18 @@
+GET /user/get 200 30 - 6.633 ms 2025-09-03T09:58:04.971Z
+GET /user/get 200 30 - 0.895 ms 2025-09-03T09:58:09.949Z
+GET /user/get 200 30 - 0.585 ms 2025-09-03T09:58:10.408Z
+GET /user/get 200 30 - 0.735 ms 2025-09-03T09:58:10.730Z
+GET /user/get 200 30 - 0.413 ms 2025-09-03T09:58:10.919Z
+GET /user/get 200 30 - 4.691 ms 2025-09-03T10:00:44.223Z
+Method: GET /user/get 200 30 - 4.727 ms 2025-09-03T10:03:43.574Z
+Method: GET /user/get 200 30 - 1.084 ms 2025-09-03T10:03:44.758Z
+Method: GET /user/get 200 30 - 0.676 ms 2025-09-03T10:04:17.809Z
+Method: GET /user/get 200 30 - 1.425 ms 2025-09-03T10:04:18.757Z
+Method: GET /user/get 200 30 - 0.608 ms 2025-09-03T10:04:58.882Z
+Method: GET /user/get 200 30 - 1.022 ms 2025-09-03T10:04:59.840Z
+Method: GET /user/get 200 30 - 0.454 ms 2025-09-03T10:05:00.031Z
+Method: GET /user/get 200 30 - 0.567 ms 2025-09-03T10:05:00.513Z
+Method: GET /user/get 200 30 - 1.563 ms 2025-09-03T10:05:00.594Z
+Method: GET /user/get 200 30 - 0.482 ms 2025-09-03T10:05:00.930Z
+Method: GET /user/get 200 30 - 0.820 ms 2025-09-03T10:05:01.536Z
+Method: GET /user/get 200 30 - 1.125 ms 2025-09-03T10:05:01.725Z
